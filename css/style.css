@@ -299,7 +299,7 @@ a.about-part2-btn:hover {
 }
 
 div.about-part2-overlay {
-  background: url("/images/video-bg.jpg") no-repeat;
+  background: url("../images/video-bg.jpg") no-repeat;
   background-size: cover;
   width: 100%;
   align-items: center;
@@ -323,7 +323,7 @@ a.play-btn {
 /* ***** Unique Features Start ***** */
 
 section.unique {
-  background-image: url("/images/feature-bg.jpg");
+  background-image: url("../images/feature-bg.jpg");
   background-size: cover;
   text-align: center;
   padding-bottom: 100px;
@@ -374,7 +374,7 @@ p.unique-features-text {
 /* ***** Footer Features Start ***** */
 
 footer.footer {
-  background: url("/images/footer-bg.jpg") no-repeat;
+  background: url("../images/footer-bg.jpg") no-repeat;
   background-size: cover;
   color: #eee;
   padding: 80px 0px;
